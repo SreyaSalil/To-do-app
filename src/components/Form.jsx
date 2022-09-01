@@ -20,7 +20,7 @@ const Form = () => {
             isEditing: false
         },
         {
-            text: "Buy some biscuits",
+            text: "Learn the .NET framework",
             isCompleted: false,
             isEditing: false
         },
